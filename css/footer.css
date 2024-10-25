@@ -1,0 +1,16 @@
+footer
+{
+    text-align: center;
+    background: rgba(1, 1, 1, 0.6);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding-block: 1rem;
+    color: #fff;
+    font-size: 17px;
+}
+
+footer span
+{
+    color: #3cdd3c;
+    text-transform: capitalize;
+}
